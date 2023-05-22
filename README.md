@@ -7,3 +7,6 @@
 
 
 ![image](https://github.com/RahulDew/MERN-Store-with-redux-and-razorpay/assets/86983295/bd7b8e7c-4e59-456e-8f06-dfb48f4e4943)
+
+To run this code you need apikeys:
+razorpay_api_key and razorpay_api_secret from razorpay
