@@ -1,6 +1,6 @@
 # MERN Store with redux and razorpay integration 
 
-![image](https://github.com/RahulDew/MERN-Store-with-redux-and-razorpay/assets/86983295/77702bcf-0c1b-4ca7-882f-483d862d499e)
+![image](https://github.com/RahulDew/MERN-Store-with-redux-and-razorpay/assets/86983295/7f472789-0b15-4d36-8c11-31a674ca6e71)
 
 
 ![image](https://github.com/RahulDew/MERN-Store-with-redux-and-razorpay/assets/86983295/1192271f-eb08-42df-86e7-c1a210e1cc25)
